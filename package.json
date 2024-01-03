@@ -1,5 +1,7 @@
 {
+  "type": "module",
   "dependencies": {
-    "jsdom": "^23.0.1"
+    "jsdom": "^23.0.1",
+    "node-fetch": "^2.7.0"
   }
 }
